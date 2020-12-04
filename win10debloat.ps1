@@ -106,9 +106,13 @@ $mpc.width                       = 150
 $mpc.height                      = 30
 $mpc.location                    = New-Object System.Drawing.Point(584,61)
 $mpc.Font                        = New-Object System.Drawing.Font('Microsoft Sans Serif',12)
+
 $CPU-Z 				 = New-object system.Windows.Forms.Button
 $CPU-Z.text			 = "CPU_Z"
-
+$CPU-Z.width			 = 150
+$CPU-Z.height                    = 30
+$CPU-Z.location       		 = New-Object System.Drawing.Point(584,30)
+$CPU-Z.font     		 = New-Object System.Drawing.Font('Microsoft Sans Serif',12)
 
 $vlc                             = New-Object system.Windows.Forms.Button
 $vlc.text                        = "VLC"
