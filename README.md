@@ -11,4 +11,3 @@ This is the Ultimate Windows 10 Script from a creation from multiple debloat scr
 - Added Debloat Microsoft Store Apps
 - Full GUI Implementation
 
-For complete details check out https://christitus.com/debloat-windows-10-2020/
